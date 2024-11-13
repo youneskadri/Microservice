@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/category/category.iml" filepath="$PROJECT_DIR$/category/category.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comments/comments.iml" filepath="$PROJECT_DIR$/comments/comments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cours/cours.iml" filepath="$PROJECT_DIR$/cours/cours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forum/forum.iml" filepath="$PROJECT_DIR$/forum/forum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ms-learning.iml" filepath="$PROJECT_DIR$/.idea/ms-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/posts/posts.iml" filepath="$PROJECT_DIR$/posts/posts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quizz-app/quizz.iml" filepath="$PROJECT_DIR$/quizz-app/quizz.iml" />
+    </modules>
+  </component>
+</project>

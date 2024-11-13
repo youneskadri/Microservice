@@ -1,0 +1,14 @@
+tn\esprit\ms\Entities\Forum$ForumBuilder.class
+tn\esprit\ms\Service\IForumService.class
+tn\esprit\ms\Repository\ForumRepository.class
+tn\esprit\ms\dto\PostResponse$PostResponseBuilder.class
+tn\esprit\ms\Controller\ForumController.class
+tn\esprit\ms\Client\PostClient.class
+tn\esprit\ms\dto\ForumPostReponse$ForumPostReponseBuilder.class
+tn\esprit\ms\Entities\Forum.class
+tn\esprit\ms\ForumApplication.class
+tn\esprit\ms\dto\ForumPostReponse.class
+tn\esprit\ms\Entities\Post.class
+tn\esprit\ms\Service\ForumService.class
+tn\esprit\ms\dto\PostResponse.class
+tn\esprit\ms\Entities\Post$PostBuilder.class
